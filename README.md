@@ -1,6 +1,6 @@
 # AI agent for OpenAI Gym BlackJack environment
 Reinforcement Learning project, solving BlackJack env with Monte Carlo Control.<br>
-This is part of an Udacity nanodegress in Deep Reinforcement Learning.<br>
+This is part of an Udacity nanodegree in Deep Reinforcement Learning.<br>
 environment: OpenAI Gym BlackJack-v0<br>
 <br>
 ## Description
